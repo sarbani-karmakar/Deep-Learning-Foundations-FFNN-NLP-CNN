@@ -1,4 +1,4 @@
-# Deep Learning Foundations — FFNN, NLP & CNN
+# Deep Learning Foundations - FFNN, NLP & CNN
 
 A deep learning assignment covering three AI modalities built with TensorFlow/Keras.
 
