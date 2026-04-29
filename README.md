@@ -14,7 +14,7 @@ This project demonstrates foundational deep learning concepts across three domai
 - FFNN with EarlyStopping for regression (MAE, RMSE)
 - Overfitting/underfitting diagnosis from training curves
 - Text tokenization, padding, and sequence modeling
-- Baseline Embedding model vs LSTM — comparison with transformers
+- Baseline Embedding model vs LSTM - comparison with transformers
 - CNN with Conv2D, MaxPooling, EarlyStopping, and confusion matrix analysis
 
 ## Tools & Libraries
